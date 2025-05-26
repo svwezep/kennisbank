@@ -1,0 +1,42 @@
+
+site_name: Kennisbank SV Wezep
+extra_css:
+  - assets/style.css
+theme:
+  name: material
+  logo: assets/SV-Wezep-Logo-64px.png
+  language: nl
+  palette: 
+    scheme: default
+    primary: red
+    accent: blue
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - content.action.edit
+nav:
+  
+  - Algemeen:
+    - Opleiding tot vuurschutter: algemeen/opleiding-tot-vuurschutter.md
+    - Over de vereniging: algemeen/over-de-vereniging.md
+    - Lidmaatschap en contributie: algemeen/lidmaatschap-en-contributie.md
+
+  - Veiligheid:
+        
+    - Wet en regelgeving: test.md 
+    - Uitgifte / inname wapens: test.md
+    - Veiligheid op de baan: veiligheid/veiligheid-op-de-baan.md    
+    - VVF: test.md
+    - BHV: test.md
+
+  - Techniek: 
+    - Schiettechniek en houding: opleiding3.md
+    - Instructies gebruik pistool: opleiding3.md
+    - Instructies gebruik revolver: opleiding3.md
+    - Instructies gebruik geweer: opleiding3.md
+    - Instructies gebruik karabijn: opleiding3.md
+
+  - Overig:
+    - Opbouwen schietbaan: test.md
+    - Opruimen schietbaan: test.md
