@@ -12,11 +12,15 @@ Tijdens de kennismaking leiden wij u rond in ons clubgebouw en geven wij u een e
 ---
 
 ## Begeleid schieten (met luchtwapens)
+!!! info "Als je iets niet helemaal zeker weet of twijvelt, vraag het gerust de instructeur!"
 Gedurende de eerste weken wordt u begeleid bij het schieten met luchtwapens. U ontvangt instructies over de basisprincipes van de schietsport en leert de regels en technieken.
 
 * [Veiligheid op en rond de schietbaan](../veiligheid/veiligheid-op-de-baan.md)
 * [Wisselen plankje](../overig/wisselen-plankje.md)
 * [Schiettechniek en houding](../techniek/schiettechniek-en-houding.md)
+
+
+    
 
 ---
 
@@ -36,6 +40,7 @@ Afhankelijk van het type vuurwapen waarmee u wilt gaan schieten, ontvangt u een 
 ---
 
 ## Zelfstandig schieten
+!!! info "Toch nog vragen? Of is iets niet duidelijk? Vraag gerust een medeschutter om even mee te kijken!"
 Wanneer uit de begeleide sessies blijkt dat u veilig en verantwoord met een vuurwapen kunt omgaan, ontvangt u een goedkeuring in de vorm van een paraaf in uw schietboekje. Vanaf dat moment bent u bevoegd om zelfstandig te schieten op onze schietbaan.
 
 * [Wapenuitgifte](../veiligheid/wapenuitgifte.md)

@@ -9,43 +9,33 @@
 
     - Wees je bewust van je doel en omgeving
 
-## Wapenuitgifte/inname
-
-- Maximaal 2 mensen aan de balie wapenkamer, de rest wacht in de hal/kantine
-
-- Vul de noodzakelijke formulieren zorgvuldig in
-
-- Controleer bij inname/uitgave van wapen nogmaals of deze ongeladen is
-
-- Schietbeurt stempel wordt gegeven bij inleveren kaarten
-
-- Niet tellen in de wapenkamer
-
----
 
 ## Wapenhandelingen
 
-- Verplaatsingen met wapen enkel met loop naar de grond gericht, magazijn uit het wapen en koord zichtbaar door de loop.
+- Verplaatsingen enkel met ongeladen  wapen met loop naar de grond gericht, magazijn uit het wapen en koord zichtbaar door de loop en kamer.
 
-- Er mag alleen vuur afgegeven worden richting eigen doelen (gericht vuur afgeven).
+- Het wapen en/of magazijnen mogen pas op het schietpunt gevuld/geladen worden. Het is niet toegestaan om meer dan 5 patronen in het wapen/magazijn te laden.
 
-- Alle wapenhandelingen moeten in een veilige richting worden uitgevoerd.
+- Alle wapenhandelingen (laden, oplossen storing, opbergen, etc.) moeten met de loop in richting van het doel worden uitgevoerd.
+
+- Wanneer het wapen niet gebruikt wordt (zoals bij wisselen kaart), dan dient de slede altijd open te staan en eventueel magazijn verwijderd te worden, zodat zichtbaar is dat wapen ongeladen is.
 
 - Wacht 30 seconden bij weigeraar, want patroon kan vertraagd ontsteken.
 
-- Bij niet op te lossen storing, overleg met VVF’er. Houd je wapen hierbij ALTIJD in veilige richting en verlaat NOOIT je schietpunt met een geladen wapen.
+- Bij niet op te lossen storing, overleg met VVF’er. Houd je wapen hierbij ALTIJD richting doel en verlaat NOOIT je schietpunt met een geladen wapen.
 
 - Beginnende schutters schieten onder toezicht totdat 2 ervaren schutters beoordeeld hebben dat zijn wapen op een veilige manier kan worden gehanteerd.
 
-- Iedereen is verantwoordelijk voor een veilige situatie. Spreek elkaar aan op onveilig gedrag met wederzijds respect.
+- Iedereen is verantwoordelijk voor een veilige situatie. Zie je een onveilige situatie, dan ben je verplicht de schutter (met wderzijdsrespect) hier op op aan te spreken. 
 
-- Hanteer de specifieke veiligheidsregels geldend voor het betreffende wapen type:
+- Hanteer de specifieke veiligheidsregels geldend voor het betreffende wapentype: [pistool](../techniek/instructie-pistool.md), [revolver](../techniek/instructie-revolver.md),  [geweer](../techniek/instructie-geweer.md) of [karabijn](../techniek/instructie-karabijn.md)
 
-    * [Instructie pistool](../techniek/instructie-pistool.md)
-    * [Instructie revolver](../techniek/instructie-revolver.md)
-    * [Instructie geweer](../techniek/instructie-geweer.md)
-    * [Instructie karabijn](../techniek/instructie-karabijn.md)
+- Het ter hand nemen van een vuurwapen zonder de expliciete toestemming van de eigenaar of schutter is niet toegestaan. U bent zelf verantwoordelijk voor uw wapen, dus laat uw wapen ook NOOIT onbeheerd achter op de baan.
 
+
+!!! info "TIP"
+    Zorg dat alles klaar staat voordat je, je wapen laad. Dus plankje gewisseld, kaart geplaatst en naar achter getransporteert. Zo hoeven er geen handelingen meer uitgevoerd
+    te worden terwijl het wapen geladen is en kan er direct gestart worden met schieten.
 
 ---
 
@@ -55,19 +45,25 @@
 
 - Het is verboden om de schietpunten te betreden indien er geen VVF’er aanwezig is.
 
-- Het is verboden de baan voor de schietpunten te betreden indien er nog geschoten word.
+- Bij eigen wapen: Haal deze op het schietpunt uit de koffer/foudraal en niet achter op de bankjes, zodat er niet gelopen hoeft te worden met het wapen.
 
-- Denk aan gehoorbescherming indien het betreden van de schietbaan.
+- Het enkel toegestaan na toestemming van VVFer de baan voor de schietpunten te betreden. In iedergeval NOOIT wanneer er nog geschoten wordt.
+
+- Denk aan gehoorbescherming en schietbril **voor** het betreden van de schietbaan. Het is verplicht beiden te dragen op de schietbaan.
 
 - Sluit de deur bij binnenkomst en verlaten van de baan.
 
 - Plaats houten kaarthouder indien van toepassing
 
-- Voor het verlaten van de baan, ontladen wapen en lege patroonhouder laten zien aan de VVF’er
+- Voor het verlaten van de baan, ontladen wapen (met oranje koort) en lege patroonhouder laten zien aan de VVF’er
 
 - Eigen schietplek opruimen van hulzen en rommel.
 
 - Houten kaarthouder weer omwisselen indien van toepassing.
+
+- Toegang van introducés mag enkel na toestemming van een aanwezig bestuurslid. Het is ten strengste verboden om een wapen uit handen te geven aan een bezoeker of lid dat nog niet zelfstandig mag schieten.
+
+- Buiten schietbaan en wapenkamer dient het wapen ALTIJD opgeborgen te zijn in een afgesloten koffer of foudraal. Demonstratie, bezichtiging, onderhoud en de- montage enkel in een door het bestuur aangewezen ruimte, maar **NOOIT IN DE KANTINE**
 
 ---
 
@@ -91,8 +87,12 @@ Het ‘stop-stop-stop’ signaal wordt gegeven wanneer er een onveilige situatie
 
 - Er hangt een EHBO doos in de gang in de kelder. In de kantine hang een AED achter de bar.
 
-- De BHV’ers binnen de vereniging zijn Jeroen Veldhuis en Hennie van Milgen
+- [De BHV’ers binnen de vereniging zijn Jeroen Veldhuis en Hennie van Milgen](bedrijfshulpverlinging.md)
 
 - Aansturing d.m.v de VVF’er (taak verdeling)
 
 - Baan verlaten m.u.v. helpende leden die zijn aangewezen door de VVF’er.
+
+!!! danger "BELANGRIJK"
+    Veiligheid heeft bij onze vereniging de hoogste prioriteit. Overtreding van bovenstaande regels kan leiden tot
+    verwijdering van de schietbaan en mogelijk zelfs tot royement.
