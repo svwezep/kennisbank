@@ -1,4 +1,9 @@
 
+!!! danger "VEILIGHEID"
+
+    Behandel elk vuurwapen alsof het geladen is. De meeste ongevallen vinden plaats met “ongeladen” wapens! 
+    Richt nooit een vuurwapen op iets dat je niet wilt raken
+
 https://www.vrijheid-leiderdorp.nl/bestanden/202204-veiligheidsreglement.pdf?cd=i
 https://www.wlassh.nl/veiligheid/veiligheid-op-de-baan
 https://www.schietsportasvn.nl/veiligheid/

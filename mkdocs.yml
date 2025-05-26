@@ -15,6 +15,10 @@ theme:
     - navigation.expand
     - navigation.path
     - content.action.edit
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 nav:
   
   - Algemeen:
@@ -27,7 +31,7 @@ nav:
     - Wet en regelgeving: test.md 
     - Uitgifte / inname wapens: test.md
     - Veiligheid op de baan: veiligheid/veiligheid-op-de-baan.md    
-    - VVF: test.md
+    - Verenigings Veiligheids Functionaris: test.md
     - BHV: test.md
 
   - Techniek: 
@@ -38,5 +42,4 @@ nav:
     - Instructies gebruik karabijn: opleiding3.md
 
   - Overig:
-    - Opbouwen schietbaan: test.md
-    - Opruimen schietbaan: test.md
+    - Opbouwen/afbreken schietbaan: test.md
