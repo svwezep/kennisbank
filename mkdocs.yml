@@ -28,18 +28,19 @@ nav:
 
   - Veiligheid:
         
-    - Wet en regelgeving: test.md 
-    - Uitgifte / inname wapens: test.md
+    - Wet en regelgeving: veiligheid/wet-en-regelgeving.md
+    - Uitgifte / inname wapens: veiligheid/wapenuitgifte.md
     - Veiligheid op de baan: veiligheid/veiligheid-op-de-baan.md    
-    - Verenigings Veiligheids Functionaris: test.md
-    - BHV: test.md
+    - Verenigingsveiligheidsfunctionaris (VVF): veiligheid/verenigingsveiligheidsfunctionaris.md
+    - Bedrijfshulpverlinging (BHV): veiligheid/bedrijfshulpverlinging.md
 
   - Techniek: 
-    - Schiettechniek en houding: opleiding3.md
-    - Instructies gebruik pistool: opleiding3.md
-    - Instructies gebruik revolver: opleiding3.md
-    - Instructies gebruik geweer: opleiding3.md
-    - Instructies gebruik karabijn: opleiding3.md
+    - Schiettechniek en houding: techniek/schiettechniek-en-houding.md
+    - Instructies gebruik pistool: techniek/instructie-pistool.md
+    - Instructies gebruik revolver: techniek/instructie-revolver.md
+    - Instructies gebruik geweer: techniek/instructie-geweer.md
+    - Instructies gebruik karabijn: techniek/instructie-karabijn.md
 
   - Overig:
-    - Opbouwen/afbreken schietbaan: test.md
+    - Wisselen plankje: overig/wisselen-plankje.md
+    - Opbouwen/afbreken schietbaan: overig/opbouwen-afbreken-schietbaan.md

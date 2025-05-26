@@ -1,12 +1,13 @@
 
-!!! danger "VEILIGHEID"
+!!! danger "BELANGRIJK"
 
-    Behandel elk vuurwapen alsof het geladen is. De meeste ongevallen vinden plaats met “ongeladen” wapens! 
-    Richt nooit een vuurwapen op iets dat je niet wilt raken
+    - Behandel elk vuurwapen alsof het geladen is. De meeste ongevallen vinden plaats met “ongeladen” wapens! 
 
-https://www.vrijheid-leiderdorp.nl/bestanden/202204-veiligheidsreglement.pdf?cd=i
-https://www.wlassh.nl/veiligheid/veiligheid-op-de-baan
-https://www.schietsportasvn.nl/veiligheid/
+    - Richt nooit een vuurwapen op iets dat je niet wilt raken
+
+    - De wijsvinger naast de trekker houden, tenzij het wapen op het doel gericht is
+
+    - Wees je bewust van je doel en omgeving
 
 ## Wapenuitgifte/inname
 
@@ -38,9 +39,19 @@ https://www.schietsportasvn.nl/veiligheid/
 
 - Iedereen is verantwoordelijk voor een veilige situatie. Spreek elkaar aan op onveilig gedrag met wederzijds respect.
 
+- Hanteer de specifieke veiligheidsregels geldend voor het betreffende wapen type:
+
+    * [Instructie pistool](../techniek/instructie-pistool.md)
+    * [Instructie revolver](../techniek/instructie-revolver.md)
+    * [Instructie geweer](../techniek/instructie-geweer.md)
+    * [Instructie karabijn](../techniek/instructie-karabijn.md)
+
+
 ---
 
 ## Betreden en verlaten schietbaan
+
+- Het gebruik van alcohol/drugs door een schutter en toezichthouders, vóór en tijdens het schieten, is verboden. Gebruikers van medicijnen en stoffen die de schietveiligheid kunnen beïnvloeden, mogen niet aan schietoefeningen deelnemen.
 
 - Het is verboden om de schietpunten te betreden indien er geen VVF’er aanwezig is.
 

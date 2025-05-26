@@ -21,3 +21,11 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Plugins
 
 https://pypi.org/project/mkdocs-encryptcontent-plugin/#Installation
+
+
+
+
+https://www.vrijheid-leiderdorp.nl/bestanden/202204-veiligheidsreglement.pdf?cd=i
+https://www.wlassh.nl/veiligheid/veiligheid-op-de-baan
+https://www.schietsportasvn.nl/veiligheid/
+https://www.svhedel.nl/wp-content/uploads/2022/12/Handboek-schietsport-V2-Website.pdf
