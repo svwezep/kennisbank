@@ -12,8 +12,7 @@ theme:
     accent: blue
   features:
     - navigation.sections
-    - navigation.expand
-    - navigation.path
+    - navigation.expand    
     - content.action.edit
 markdown_extensions:
   - admonition

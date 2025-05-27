@@ -20,7 +20,7 @@
 
 - Wanneer het wapen niet gebruikt wordt (zoals bij wisselen kaart), dan dient de slede altijd open te staan en eventueel magazijn verwijderd te worden, zodat zichtbaar is dat wapen ongeladen is.
 
-- Wacht 30 seconden bij weigeraar, want patroon kan vertraagd ontsteken.
+- Wacht 30 seconden bij weigeraar, want patroon kan vertraagd ontsteken. Houd hierbij het wapen richting het doel gericht.
 
 - Bij niet op te lossen storing, overleg met VVF’er. Houd je wapen hierbij ALTIJD richting doel en verlaat NOOIT je schietpunt met een geladen wapen.
 
