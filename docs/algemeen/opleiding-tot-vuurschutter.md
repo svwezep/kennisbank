@@ -12,7 +12,6 @@ Tijdens de kennismaking leiden wij u rond in ons clubgebouw en geven wij u een e
 ---
 
 ## Begeleid schieten (met luchtwapens)
-!!! info "Als je iets niet helemaal zeker weet of twijvelt, vraag het gerust de instructeur!"
 Gedurende de eerste weken wordt u begeleid bij het schieten met luchtwapens. U ontvangt instructies over de basisprincipes van de schietsport en leert de regels en technieken.
 
 * [Veiligheid op en rond de schietbaan](../veiligheid/veiligheid-op-de-baan.md)

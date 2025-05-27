@@ -24,9 +24,9 @@
 
 - Bij niet op te lossen storing, overleg met VVF’er. Houd je wapen hierbij ALTIJD richting doel en verlaat NOOIT je schietpunt met een geladen wapen.
 
-- Beginnende schutters schieten onder toezicht totdat 2 ervaren schutters beoordeeld hebben dat zijn wapen op een veilige manier kan worden gehanteerd.
+- Beginnende schutters schieten onder toezicht totdat 2 ervaren schutters beoordeeld hebben dat het wapen op een veilige manier kan worden gehanteerd.
 
-- Iedereen is verantwoordelijk voor een veilige situatie. Zie je een onveilige situatie, dan ben je verplicht de schutter (met wderzijdsrespect) hier op op aan te spreken. 
+- Iedereen is verantwoordelijk voor een veilige situatie. Zie je een onveilige situatie, dan ben je verplicht de schutter (met wederzijdsrespect) hier op op aan te spreken. 
 
 - Hanteer de specifieke veiligheidsregels geldend voor het betreffende wapentype: [pistool](../techniek/instructie-pistool.md), [revolver](../techniek/instructie-revolver.md),  [geweer](../techniek/instructie-geweer.md) of [karabijn](../techniek/instructie-karabijn.md)
 
@@ -55,7 +55,7 @@
 
 - Plaats houten kaarthouder indien van toepassing
 
-- Voor het verlaten van de baan, ontladen wapen (met oranje koort) en lege patroonhouder laten zien aan de VVF’er
+- Voor het verlaten van de baan, ontladen wapen (met oranje koord) en lege patroonhouder laten zien aan de VVF’er
 
 - Eigen schietplek opruimen van hulzen en rommel.
 
