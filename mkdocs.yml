@@ -8,6 +8,7 @@ extra_css:
 theme:
   name: material
   logo: assets/SV-Wezep-Logo-64px.png
+  favicon: assets/SV-Wezep-Logo-32px.png
   language: nl
   palette: 
     scheme: default
@@ -32,6 +33,7 @@ nav:
     - Opleiding tot vuurschutter: algemeen/opleiding-tot-vuurschutter.md
     - Over de vereniging: algemeen/over-de-vereniging.md
     - Lidmaatschap en contributie: algemeen/lidmaatschap-en-contributie.md
+    - Vrijwilligers en taken: algemeen/vrijwilligers-en-taken.md
 
   - Veiligheid:
         

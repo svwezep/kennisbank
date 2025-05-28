@@ -1,4 +1,5 @@
-https://squidfunk.github.io/mkdocs-material/publishing-your-site/#with-github-actions
+https://svwezep.github.io/kennisbank/
+
 
 # Welcome to MkDocs
 
