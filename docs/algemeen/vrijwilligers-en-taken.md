@@ -1,4 +1,4 @@
-De vereniging wordt draaiende gehouden door vele vrijwilligers welke zich wekelijks soms vele uren belangeloos inzetten voor het draaiende houden van deze vereniging. Als vereniging verwachten we dat je als lid af en toe te helpt met sommige taken:
+De vereniging wordt draaiende gehouden door vele vrijwilligers welke zich wekelijks, soms vele uren, belangeloos inzetten voor het draaiende houden van deze vereniging. Als vereniging verwachten we dat je als lid af en toe te helpt met sommige taken:
 
 * Aanwezig zijn bij ledenvergadering
 * Schoonmaak dag

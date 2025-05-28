@@ -10,9 +10,9 @@ Klein Kaliber Senioren  20:00 – 22:30
 
 ## Parkeren
 
-Voor het clubgebouw zijn parkeerplekken voor leden beschikbaar, maar ook langs de toegangsweg zijn voldoende gratis parkeerplaatsen beschikbaar. Parkeert u voor het gebouw, rijdt dan uw auto zo ver mogelijk door tot aan het pand, zodat er achter uw auto nog een auto geparkeerd kan worden.
+Voor het clubgebouw zijn parkeerplekken voor leden beschikbaar, maar ook langs de toegangsweg zijn voldoende gratis openbare parkeerplaatsen beschikbaar. Parkeert u voor het gebouw, rijdt dan uw auto zo ver mogelijk door tot aan het pand, zodat er achter uw auto nog een auto geparkeerd kan worden.
 
-**Parkeer NIET bij de naastgelegen muziekvereniging, aangezien zij op dezelfde avonden activiteiten hebben**
+**Parkeer NIET bij de naastgelegen muziekvereniging, aangezien zij op dezelfde avonden ook activiteiten hebben**
 
 ## Contact gegevens</br>
 (T) 038-3769662 (enkel tijdens verenigingsavonden)</br>

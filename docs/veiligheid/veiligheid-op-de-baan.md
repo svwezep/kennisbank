@@ -57,6 +57,8 @@
 
 - Voor het verlaten van de baan, ontladen wapen (met oranje koord) en lege patroonhouder laten zien aan de VVF’er
 
+- Wanneer je geen verlof voor het voorhanden hebben van munitie hebt, dient niet afgeschoten munitie in bewaring gesteld te worden bij het wapenuitgifte loket. Het is ten strengste verboden om in dit geval munitie mee naar huis te nemen.
+
 - Eigen schietplek opruimen van hulzen en rommel.
 
 - Houten kaarthouder weer omwisselen indien van toepassing.

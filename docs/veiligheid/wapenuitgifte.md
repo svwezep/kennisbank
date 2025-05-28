@@ -1,21 +1,20 @@
 
 
+## Uitgifte van wapens
 
-# Uitgife wapens
+- **Maximaal twee personen** aan de balie van de wapenkamer; overige schutters wachten in de hal of kantine.
+- Vul het **presentieregisterformulier zorgvuldig en volledig** in.
+- Controleer bij ontvangst of het wapen **ongeladen** is — dit is te zien aan het **oranje veiligheidskoord** dat door de loop en kamer loopt.
+- Pak indien nodig zelf een **gehoorbeschermer** en/of een **schietbril**.
 
-- Maximaal 2 mensen aan de balie wapenkamer, de rest wacht in de hal/kantine
-- Vul het presentie register formulieren zorgvuldig in
-- Controleer bij ontvangst van wapen of deze ongeladen is (oranje koord door de loop en kamer)
-- Pak zelf eventueel gehoorbeschermers en/of schietbril
+## Inname van wapens
 
-# Inname wapens
+- Controleer vóór het inleveren dat het wapen **ongeladen** is en dat het **oranje veiligheidskoord** door de loop en kamer is aangebracht.
+- Leg het wapen op de balie met de **loop zijwaarts gericht** — **NOOIT richting een medeschutter of medewerker!**
+- Zorg ervoor dat het geleende wapen wordt **afgetekend bij retour**. Tot dat moment blijf je **zelf verantwoordelijk** voor het wapen.
 
-- Verzeker jezelf ervan dat het wapen ongeladen is en het oranje koord door de loop en kamer loopt. De slede dient ontspannen te zijn.
-- Leg wapen met loop zijwaarts gericht op de balie; **NOOIT RICHTING MEDESCHUTTER OF MEDEWERKER!**
-- Controleer dat er voor het geleende wapen retour afgetekend wordt (Tot die tijd ben je zelf verantwoordelijk voor het wapen!)
+## Inleveren van schietkaarten
 
-# Inleveren kaarten
-
-- Niet tellen in de wapenkamer; Op de schietbaan en in de kantine zijn pennen aanwezig.
-- Schietbeurt stempel wordt gegeven bij inleveren kaarten
+- **Tellen van punten is niet toegestaan in de wapenkamer.** Gebruik hiervoor de schietbaan of de kantine — daar zijn pennen aanwezig.
+- De **schietbeurtstempel** wordt gegeven bij het inleveren van de schietkaarten.
 

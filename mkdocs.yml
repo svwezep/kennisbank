@@ -27,6 +27,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+extra:
+  generator: false
+copyright: Copyright &copy; Schietvereniging Wezep
+
 nav:
   
   - Algemeen:
@@ -45,6 +49,7 @@ nav:
 
   - Techniek: 
     - Schiettechniek en houding: techniek/schiettechniek-en-houding.md
+    - Informatie over munitie: techniek/instructie-munitie.md
     - Instructies gebruik pistool: techniek/instructie-pistool.md
     - Instructies gebruik revolver: techniek/instructie-revolver.md
     - Instructies gebruik geweer: techniek/instructie-geweer.md
