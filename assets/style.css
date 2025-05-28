@@ -1,0 +1,16 @@
+
+@media (width >= 1220px) {
+    .md-nav__title
+    {
+        display: none;
+    }
+
+    .md-nav__item a {
+        margin-left: 10px;
+    }
+}
+
+.md-header__source
+{
+    display: none;
+}
