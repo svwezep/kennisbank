@@ -13,7 +13,7 @@ Een revolver is een handvuurwapen dat met één hand bediend kan worden. In tege
 
 Het revolver is standaard voorzien van een oranje veiligheidskoord dat door de loop en kamer loopt, zodat zichtbaar is dat het wapen ongeladen is. Wanneer er niet geschoten wordt, moet de trommel van het pistool altijd open staan.
 
-Omdat de trommel meestal 6 kamers heeft en er maar 5 schoten op een kaart gelost worden is er een dummy patroon geplaatst. Dit voorkomt dat er per ongelijk een zesde patroon geladen wordt.
+Omdat de trommel meestal 6 kamers heeft en er maar 5 schoten op een kaart gelost worden dient er 1 kamer leeg gelaten te worden.
 
 Pak het revolver met je rechterhand en open de trommel met het schuifje aan de linkerkant van het pistool. Verwijder daarna het oranje veiligheidskoord en leg het wapen neer met de loop richting de kogelvanger.
 
@@ -22,7 +22,7 @@ Pak het revolver met je rechterhand en open de trommel met het schuifje aan de l
 1. Neem vijf kogels uit de verpakking en leg deze voor je neer.
 2. Druk de trommelvergrendeling in (meestal aan de linkerkant van het wapen) en klap de trommel naar buiten.
 3. Pak het revolver met je rechterhand vul de trommel met vijf patronen.
-3. Sluit de trommel totdat deze vastklikt en zorg hierbij dat de dummy kogel boven aan zit.
+4. Sluit de trommel totdat deze vastklikt en zorg hierbij dat de lege kamer boven aan zit.
 
 Het wapen is nu geladen, maar pas vuurklaar als de haan handmatig gespannen wordt (bij single action) of wanneer de trekker volledig wordt overgehaald (bij double action). Het is bij double action echter ook zeer aan te raden om de haan handmatig te spannen om een hoge trekkerdruk te vermijden. 
 
@@ -40,8 +40,8 @@ Bij een revolver is er geen indicatie of alle munitie verschoten is. Het is dus 
 1. Open de trommel opnieuw
 2. Houd het wapen schuin omhoog met de loop naar voren.
 3. Druk de uitwerperstang in om de lege hulzen uit te werpen.
-4 Controleer visueel of alle kamers leeg zijn.
-5 Herhaal het laadproces indien gewenst.
+4. Controleer visueel of alle kamers leeg zijn.
+5. Herhaal het laadproces indien gewenst.
 
 ## Ontladen tijdens het schieten
 
@@ -59,7 +59,6 @@ Een weigeraar is een situatie waarin het pistool niet afgaat nadat de trekker is
 4. Sluit de trommel in de juiste positie. De meeste revolvers zijn **linksdraaiend** en bij het spannen van de haan zal de trommel één positie naar **links** draaien en zal bij het vuren dus het patroon **rechts** van het patroon dat eerst bovenaan zat verschoten worden.
 5. Probeer opnieuw te schieten.
 
-
 **Bij niet op te lossen storing, overleg met VVF’er. Houd je wapen hierbij ALTIJD richting doel en verlaat NOOIT je schietpunt met een geladen wapen.**
 
 ## Opruimen
@@ -69,4 +68,3 @@ Een weigeraar is een situatie waarin het pistool niet afgaat nadat de trekker is
 3. Toon het open wapen aan de VVFer 
 4. Ruim alle hulzen, wissel het plankje en laat je schietplek netjes achter.
 5. Loop met de loop naar beneden naar de wapenuitgifte om het wapen in te leveren.
-
