@@ -6,16 +6,15 @@ Een pistool is een handvuurwapen dat met één hand bediend kan worden. Het betr
 
 ## Voorbereiding
 
+- Kies een schietpunt tussen de schotten. Pistolen werpen gloeiend hete hulzen aan de rechterkant uit, en de schotten voorkomen dat een buurman of buurvrouw een huls in de nek krijgt.
 - Zorg dat er een kaart in de houder zit en dat deze naar achteren is getransporteerd.
 - [Ga in de juiste schietstand staan en gebruik de juiste schiettechniek](schiettechniek-en-houding.md).
 
 ## Gereedmaken van het pistool
 
-Kies een schietpunt tussen de schotten. Pistolen werpen gloeiend hete hulzen aan de rechterkant uit, en de schotten voorkomen dat een buurman of buurvrouw een huls in de nek krijgt.
-
 Het pistool is standaard voorzien van een oranje veiligheidskoord dat door de loop en kamer loopt, zodat zichtbaar is dat het wapen ongeladen is. Wanneer er niet geschoten wordt, moet de slede van het pistool altijd open staan.
 
-Pak het pistool met je rechterhand en trek de slede met je linkerhand volledig naar achteren. Druk vervolgens met je rechterduim de sledevangpal omhoog, en laat de slede met je linkerhand rustig naar voren gaan totdat deze open blijft staan. Verwijder daarna het oranje veiligheidskoord.
+Pak het pistool met je rechterhand en trek de slede met je linkerhand volledig naar achteren. Druk vervolgens met je rechterduim de sledevangpal omhoog, en laat de slede met je linkerhand rustig naar voren gaan totdat deze vast blijft staan. Verwijder daarna het oranje veiligheidskoord en leg het wapen neer met de loop richting de kogelvanger.
 
 ## Vullen van de patroonhouder
 
@@ -49,7 +48,7 @@ Na het vijfde schot blijft de slede automatisch in de achterste stand staan.
 
 1. Druk met je duim op de patroonhouderontgrendeling (meestal in handgreep van het pistool).
 2. Verwijder de patroonhouder met je linkerhand.
-3. Leg het wapen neer op een schone ondergrond — zorg dat er geen hulzen onder liggen.
+3. Leg het wapen neer op een schone ondergrond — zorg dat er geen (lege) hulzen onder liggen.
 4. Herhaal de laadprocedure indien gewenst.
 
 ## Ontladen tijdens het schieten
@@ -60,7 +59,7 @@ Na het vijfde schot blijft de slede automatisch in de achterste stand staan.
 2. Trek met je linkerhand de slede volledig naar achteren zodat het patroon uitgeworpen wordt.
 3. Leg het pistool met open slede neer.
 
-## Weigeraar
+## Handelen bij weigeraar of andere storing
 
 Een weigeraar is een situatie waarin het pistool niet afgaat nadat de trekker is overgehaald.
 

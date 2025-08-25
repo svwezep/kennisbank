@@ -47,7 +47,7 @@
 
 - Bij eigen wapen: Haal deze op het schietpunt uit de koffer/foudraal en niet achter op de bankjes, zodat er niet gelopen hoeft te worden met het wapen.
 
-- Het enkel toegestaan na toestemming van VVFer de baan voor de schietpunten te betreden. In iedergeval NOOIT wanneer er nog geschoten wordt.
+- Het is enkel toegestaan na toestemming van VVFer de baan voor de schietpunten te betreden. In iedergeval NOOIT wanneer er nog geschoten wordt.
 
 - Denk aan gehoorbescherming en schietbril **voor** het betreden van de schietbaan. Het is verplicht beiden te dragen op de schietbaan.
 
@@ -60,8 +60,6 @@
 - Wanneer je geen verlof voor het voorhanden hebben van munitie hebt, dient niet afgeschoten munitie in bewaring gesteld te worden bij het wapenuitgifte loket. Het is ten strengste verboden om in dit geval munitie mee naar huis te nemen.
 
 - Eigen schietplek opruimen van hulzen en rommel.
-
-- Houten kaarthouder weer omwisselen indien van toepassing.
 
 - Toegang van introducés mag enkel na toestemming van een aanwezig bestuurslid. Het is ten strengste verboden om een wapen uit handen te geven aan een bezoeker of lid dat nog niet zelfstandig mag schieten.
 
