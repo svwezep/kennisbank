@@ -24,6 +24,8 @@ Pak het revolver met je rechterhand en open de trommel met het schuifje aan de l
 3. Pak het revolver met je rechterhand vul de trommel met vijf patronen.
 4. Sluit de trommel totdat deze vastklikt en zorg hierbij dat de lege kamer boven aan zit.
 
+![image](../assets/revolver/revolver-loading.png)
+
 Het wapen is nu geladen, maar pas vuurklaar als de haan handmatig gespannen wordt (bij single action) of wanneer de trekker volledig wordt overgehaald (bij double action). Het is bij double action echter ook zeer aan te raden om de haan handmatig te spannen om een hoge trekkerdruk te vermijden. 
 
 ## Schieten

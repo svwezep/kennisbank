@@ -14,6 +14,8 @@ Een pistool is een handvuurwapen dat met één hand bediend kan worden. Het betr
 
 Het pistool is standaard voorzien van een oranje veiligheidskoord dat door de loop en kamer loopt, zodat zichtbaar is dat het wapen ongeladen is. Wanneer er niet geschoten wordt, moet de slede van het pistool altijd open staan.
 
+![image](../assets/pistol/pistol-open.png)
+
 Pak het pistool met je rechterhand en trek de slede met je linkerhand volledig naar achteren. Druk vervolgens met je rechterduim de sledevangpal omhoog, en laat de slede met je linkerhand rustig naar voren gaan totdat deze vast blijft staan. Verwijder daarna het oranje veiligheidskoord en leg het wapen neer met de loop richting de kogelvanger.
 
 ## Vullen van de patroonhouder
@@ -28,6 +30,9 @@ Pak het pistool met je rechterhand en trek de slede met je linkerhand volledig n
 2. Duw met je linkerhand het magazijn in het pistool totdat het vastklikt.
 3. Druk met je rechterduim op de sledevangpal, zodat de slede naar voren beweegt.
 4. Het pistool is nu geladen en klaar om te schieten.
+
+![image](../assets/pistol/pistol-close.png)
+_Door met je duim op de sledeval te drukken zal de slede naar voren bewegen_
 
 ## Schieten
 
@@ -78,3 +83,5 @@ Een weigeraar is een situatie waarin het pistool niet afgaat nadat de trekker is
 4. Ruim alle hulzen, wissel het plankje en laat je schietplek netjes achter.
 5. Loop met de loop naar beneden naar de wapenuitgifte om het wapen in te leveren.
 
+![image](../assets/pistol/pistol-open2.png)
+_Controleer altijd visueel of het pistool werkelijk ontladen is en er geen patroon meer in de kamer zit_
