@@ -30,7 +30,7 @@ Het wapen is nu geladen, maar pas vuurklaar als de haan handmatig gespannen word
 
 ## Schieten
 
-1. Houd je wapen richting doel en span de haan met je duim (eventueel met hulp van je linkerhand)
+1. Houd je wapen richting doel met de vinger langs de trekkerbeugel of hoger, dus niet bij de trekker en span de haan met je duim (eventueel met hulp van je linkerhand)
 2. Breng je arm verder omhoog zodat het wapen op gelijke hoogte is met het doel.
 3. Haal langzaam de trekker over.
 4. Herhaal bovenstaande stappen tot alle munitie verschoten is

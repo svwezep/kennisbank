@@ -26,7 +26,7 @@ Pak het pistool met je rechterhand en trek de slede met je linkerhand volledig n
 
 ## Laden van het vuurwapen
 
-1. Neem het pistool in je rechterhand en zorg dat je vinger langs de trekkerbeugel ligt.
+1. Neem het pistool in je rechterhand en zorg dat je vinger langs de trekkerbeugel ligt. Dus niet bij de trekker maar langs de trekkerbeugel of hoger.
 2. Duw met je linkerhand het magazijn in het pistool totdat het vastklikt.
 3. Druk met je rechterduim op de sledevangpal, zodat de slede naar voren beweegt.
 4. Het pistool is nu geladen en klaar om te schieten.
@@ -59,9 +59,11 @@ Na het vijfde schot blijft de slede automatisch in de achterste stand staan.
 ## Ontladen tijdens het schieten
 
 1. Verwijder de patroonhouder terwijl je het pistool op het doel gericht houdt.
-> GEVAAR: Er bevindt zich nog een patroon in de kamer en het wapen is nog steeds vuurklaar!
+   
+   > GEVAAR: Er bevindt zich nog een patroon in de kamer en het wapen is nog steeds vuurklaar!
 
 2. Trek met je linkerhand de slede volledig naar achteren zodat het patroon uitgeworpen wordt.
+
 3. Leg het pistool met open slede neer.
 
 ## Handelen bij weigeraar of andere storing

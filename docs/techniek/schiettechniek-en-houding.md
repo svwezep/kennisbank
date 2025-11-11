@@ -1,0 +1,1 @@
+Er zijn verschillende technieken / houdingen. Sommigen zijn een officiele KNSA dicsipline, anderen kunnen per vereniging verschillend zijn. Tijdens de training wordt dit verder uitgelegd en per schutter geadviseerd. Voor vergunninghouders van een eigen wapen zijn sommige KNSA discipline(s) verplicht, zie het destijds ingevulde WM3 formulier. 

@@ -1,14 +1,12 @@
-
 !!! danger "BELANGRIJK"
 
     - Behandel elk vuurwapen alsof het geladen is. De meeste ongevallen vinden plaats met “ongeladen” wapens! 
-
-    - Richt nooit een vuurwapen op iets dat je niet wilt raken
-
-    - De wijsvinger naast de trekker houden, tenzij het wapen op het doel gericht is
-
+    
+    - Richt nooit een vuurwapen op iets dat je niet mag / wilt raken
+    
+    - De wijsvinger naast de trekkerbeugel houden, tenzij het wapen op het doel gericht is
+    
     - Wees je bewust van je doel en omgeving
-
 
 ## Wapenhandelingen
 
@@ -30,12 +28,10 @@
 
 - Hanteer de specifieke veiligheidsregels geldend voor het betreffende wapentype: [pistool](../techniek/instructie-pistool.md), [revolver](../techniek/instructie-revolver.md),  [geweer](../techniek/instructie-geweer.md) of [karabijn](../techniek/instructie-karabijn.md)
 
-- Het ter hand nemen van een vuurwapen zonder de expliciete toestemming van de eigenaar of schutter is niet toegestaan. U bent zelf verantwoordelijk voor uw wapen, dus laat uw wapen ook NOOIT onbeheerd achter op de baan.
-
+- Het ter hand nemen van een vuurwapen zonder de expliciete toestemming van de eigenaar of schutter is niet toegestaan. U bent zelf verantwoordelijk voor uw (geleende) wapen, dus laat uw wapen ook NOOIT onbeheerd achter op de baan.
 
 !!! info "TIP"
-    Zorg dat alles klaar staat voordat je, je wapen laad. Dus plankje gewisseld, kaart geplaatst en naar achter getransporteert. Zo hoeven er geen handelingen meer uitgevoerd
-    te worden terwijl het wapen geladen is en kan er direct gestart worden met schieten.
+    Zorg dat alles klaar staat voordat je, je wapen laad. Dus plankje gewisseld, kaart geplaatst en naar achter getransporteerd. Zo hoeven er geen handelingen meer uitgevoerd te worden terwijl het wapen geladen is en kan er direct gestart worden met schieten.
 
 ---
 
@@ -45,7 +41,7 @@
 
 - Het is verboden om de schietpunten te betreden indien er geen VVF’er aanwezig is.
 
-- Bij eigen wapen: Haal deze op het schietpunt uit de koffer/foudraal en niet achter op de bankjes, zodat er niet gelopen hoeft te worden met het wapen.
+- Bij eigen wapen: Haal deze vlak bij het schietpunt uit de koffer/foudraal en leg daarna de koffer/foudraal op de krukjes achter je. Het oranje koord pas op de schietbaan uit het wapen verwijderen.
 
 - Het is enkel toegestaan na toestemming van VVFer de baan voor de schietpunten te betreden. In iedergeval NOOIT wanneer er nog geschoten wordt.
 

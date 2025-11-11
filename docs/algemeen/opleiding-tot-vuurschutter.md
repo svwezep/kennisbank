@@ -24,7 +24,7 @@ Gedurende de eerste weken wordt u begeleid bij het schieten met luchtwapens. U o
 
 ## Proeve van bekwaamheid
 
-Na minimaal vier schietbeurten beoordeelt een instructeur of u de techniek voldoende beheerst en veilig kunt omgaan met het wapen. Indien dit het geval is, kunt u doorgaan naar de volgende Stap: het oefenen met vuurwapens.
+Na minimaal vier schietbeurten beoordeelt een instructeur of u de techniek voldoende beheerst en veilig kunt omgaan met het wapen. Zoja, dan kunt u doorgaan naar de volgende stap: het oefenen met vuurwapens.
 
 ---
 
@@ -42,7 +42,7 @@ Afhankelijk van het type vuurwapen waarmee u wilt gaan schieten, ontvangt u een 
 ## Zelfstandig schieten
 
 !!! info "Toch nog vragen? Of is iets niet duidelijk? Vraag gerust een medeschutter om even mee te kijken!"
-Wanneer uit de begeleide sessies blijkt dat u veilig en verantwoord met een vuurwapen kunt omgaan, ontvangt u een goedkeuring in de vorm van een paraaf in uw schietboekje. Vanaf dat moment bent u bevoegd om zelfstandig te schieten op onze schietbaan.
+Wanneer uit de begeleide sessies blijkt dat u veilig en verantwoord met een bepaald type vuurwapen kunt omgaan, ontvangt u een goedkeuring in de vorm van een paraaf in uw schietboekje. Vanaf dat moment bent u bevoegd om zelfstandig te schieten op onze schietbaan.
 
 * [Wapenuitgifte](../veiligheid/wapenuitgifte.md)
 * [Opbouwen schietbaan](../overig/opbouwen-afbreken-schietbaan.md)

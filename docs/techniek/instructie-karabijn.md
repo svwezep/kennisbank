@@ -20,7 +20,6 @@ Leg het karabijn met de loop richting het doel voor je neer en kantel het linkso
 
 **In tegenstelling tot een pistool, zal de grendel niet naar achter blijven staan en kan er dus zonder koort niet gezien worden of het wapen ontladen is.**
 
-
 ## Vullen van de patroonhouder
 
 1. Neem vijf kogels uit de verpakking en leg deze voor je neer.
@@ -35,9 +34,9 @@ Leg het karabijn met de loop richting het doel voor je neer en kantel het linkso
 
 ## Schieten
 
-1. Pak het wapen op breng het vizier op gelijke hoogte is met het doel.
+1. Pak het wapen op met je vinger langs de trekkerbeugel of hoger, dus nog geen vinger bij de trekker en breng het vizier op gelijke hoogte is met het doel.
 2. Steun de karabijn goed tegen je schouder en houd beide handen op het wapen.
-2. Haal langzaam de trekker over.
+3. Haal langzaam de trekker over.
 
 Bij het vuren:
 
@@ -59,11 +58,12 @@ Bij een karabijn is er geen indicatie of alle munitie verschoten is. Het is dus 
 ## Ontladen tijdens het schieten
 
 1. Leg het wapen voor je neer met de loop richting het doel.
+
 2. Verwijder het magazijn
-> GEVAAR: Er bevindt zich nog een patroon in de kamer en het wapen is nog steeds vuurklaar!
+   
+   > GEVAAR: Er bevindt zich nog een patroon in de kamer en het wapen is nog steeds vuurklaar!
 
-2. Trek de laadhendel volledig naar achteren zodat het patroon uitgeworpen wordt.
-
+3. Trek de laadhendel volledig naar achteren zodat het patroon uitgeworpen wordt.
 
 ## Handelen bij weigeraar of andere storing
 
@@ -83,4 +83,3 @@ Een weigeraar is een situatie waarin het pistool niet afgaat nadat de trekker is
 3. Toon het open wapen en lege magazijn aan de VVFer 
 4. Ruim alle hulzen, wissel het plankje en laat je schietplek netjes achter.
 5. Loop met de loop naar beneden naar de wapenuitgifte om het wapen in te leveren.
-

@@ -1,0 +1,1 @@
+De wet ziet toe op het gebruik van vuurwapens en munitie middels strenge regelgeving. De vereniging is op de hoogte van vele onderdelen van deze wetgeving. Indien van toepassing tijdens schietactiviteit en/of i.c.m. het bezit (of aanschafplannen) van eigen wapen(s) kun je vragen stellen / informatie verkrijgen bij de functionarissen tijdens het verblijf in de kantine.

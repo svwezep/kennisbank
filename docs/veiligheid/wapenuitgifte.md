@@ -1,5 +1,3 @@
-
-
 ## Uitgifte van wapens
 
 - **Maximaal twee personen** aan de balie van de wapenkamer; overige schutters wachten in de hal of kantine.
@@ -15,6 +13,9 @@
 
 ## Inleveren van schietkaarten
 
-- **Tellen van punten is niet toegestaan in de wapenkamer.** Gebruik hiervoor de schietbaan of de kantine — daar zijn pennen aanwezig.
+- **Tellen van punten is niet toegestaan in de wapenkamer.** Gebruik hiervoor de de kantine — daar zijn pennen aanwezig (of op krukje schietbaan). 
 - De **schietbeurtstempel** wordt gegeven bij het inleveren van de schietkaarten.
 
+
+!!! info "" 
+    ***Het verblijf in de wapenkamer*** is alleen toegestaan voor functionarissen (uitgifte/inname) en een zeer korte tijd voor leden uitsluitend i.v.m. bovenstaande handelingen. Onnodige aanwezigheid is onnodig risico en derhalve NIET toegestaan.

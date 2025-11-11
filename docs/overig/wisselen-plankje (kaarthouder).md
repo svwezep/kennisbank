@@ -1,0 +1,1 @@
+Voor aanvang van het schieten vervangt de schutter de metalen kaarthouder (tbv luchtschieten) voor een houten kaarthouder (tbv vuurschieten). Deze houten kaarthouder voorkomt eventueel terugketsen van kogels. Na afloop, wanneer na jou de baan niet meer wordt gebruikt, de metalen kaarthouder terugplaatsen.
