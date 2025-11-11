@@ -5,6 +5,14 @@ repo_name: kennisbank
 edit_uri: edit/master/docs
 extra_css:
   - assets/style.css
+plugins:
+  - search: {}
+  - encryptcontent: 
+      global_password: 'jaap'
+      title_prefix: ''
+      summary: 'Geen toegang'
+      placeholder: 'wachtwoord'      
+      encryption_info_message: "Voer het wachtwoord in om de inhoud te zien (Wat is de voornaam van de voorzitter)"
 theme:
   name: material
   logo: assets/SV-Wezep-Logo-64px.png
@@ -17,7 +25,6 @@ theme:
   features:
     - navigation.sections
     - navigation.expand    
-    - content.action.edit
 markdown_extensions:
   - admonition
   - pymdownx.details
