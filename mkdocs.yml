@@ -7,12 +7,12 @@ extra_css:
   - assets/style.css
 plugins:
   - search: {}
-  - encryptcontent: 
-      global_password: 'jaap'
-      title_prefix: ''
-      summary: 'Geen toegang'
-      placeholder: 'wachtwoord'      
-      encryption_info_message: "Voer het wachtwoord in om de inhoud te zien (Wat is de voornaam van de voorzitter)"
+# - encryptcontent: 
+#      global_password: 'jaap'
+#      title_prefix: ''
+#      summary: 'Geen toegang'
+#      placeholder: 'wachtwoord'      
+#      encryption_info_message: "Voer het wachtwoord in om de inhoud te zien (Wat is de voornaam van de voorzitter)"
 theme:
   name: material
   logo: assets/SV-Wezep-Logo-64px.png
